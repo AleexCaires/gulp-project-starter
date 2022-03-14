@@ -124,11 +124,11 @@ const templates = {
 		$light : #eee;
 		$white : white;
 
-		$maxWidth : '1440px';
-		$mobileMax : '768px';
-		$tabletMin : '769px';
-		$laptopMin : '1024px';
-		$desktopMin : '1440px';
+		$maxWidth : 1440px;
+		$mobileMax : 768px;
+		$tabletMin : 769px;
+		$laptopMin : 1024px;
+		$desktopMin : 1440px;
 	`,
 	mixins: `
 		// Import your mixins here
